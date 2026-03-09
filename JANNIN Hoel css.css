@@ -189,21 +189,25 @@ a:hover{
 }
 
 .tableau {
-    border: 1px solid black;
+    border-collapse: collapse;
+    margin:auto;
 }
 
 .tableau td{
-    border: 1px solid black
+    padding:10px;
+    font-size:18px;
 }
 
 .tableau th{
-    border: 1px solid black;
+    width:200px;
+    height:140px;
 }
 
-#images_tableau{
-    height: 240;
-    width: 310;
-    margin: 20px;
+.tableau img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    border-radius:8px;
 }
 
 #Competences{
