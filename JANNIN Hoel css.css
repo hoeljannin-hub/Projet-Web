@@ -188,12 +188,22 @@ a:hover{
     color: rgb(150, 38, 38);
 }
 
-.monTableau {
-    border:1px solid black;
+.tableau {
+    border: 1px solid black;
 }
 
-.monTableau td, .monTableau th{
-    border:1px solid black;
+.tableau td{
+    border: 1px solid black
+}
+
+.tableau th{
+    border: 1px solid black;
+}
+
+#images_tableau{
+    height: 240;
+    width: 310;
+    margin: 20px;
 }
 
 #Competences{
