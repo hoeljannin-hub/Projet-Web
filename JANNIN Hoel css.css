@@ -181,6 +181,21 @@ a:hover{
     line-height: 1.6;
 }
 
+#h3{
+    font-family: Helvetica;
+    font-size: 18px;
+    text-align: center;
+    color: rgb(150, 38, 38);
+}
+
+.monTableau {
+    border:1px solid black;
+}
+
+.monTableau td, .monTableau th{
+    border:1px solid black;
+}
+
 #Competences{
     scroll-margin-top: 105px;
     margin: auto;
