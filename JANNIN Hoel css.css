@@ -199,6 +199,7 @@ a:hover{
     text-align: center;
     font-size: 18px;
     font-family: Helvetica;
+    border:1px solid black;
 }
 
 .tableau td{
