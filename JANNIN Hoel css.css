@@ -212,16 +212,21 @@ a:hover{
     height: 80px;
     object-fit: cover;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 #description-text {
-    font-weight: bold;
-    font-style: italic;
     text-align: justify;
     border-radius: 8px;
     background-color: antiquewhite;
-    height: 400px;
-    width: 56%;
+    height: 200px;
+    width: 100%;
+}
+
+h4{
+    font-style: italic;
+    font-size: 14;
+    color: rgb(95, 95, 95);
 }
 
 #Competences{
