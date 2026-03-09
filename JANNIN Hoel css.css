@@ -193,14 +193,17 @@ a:hover{
     margin:auto;
 }
 
+.tableau th{
+    width:200px;
+    height:50px;
+    text-align: center;
+    font-size: 18px;
+    font-family: Helvetica;
+}
+
 .tableau td{
     padding:10px;
     font-size:18px;
-}
-
-.tableau th{
-    width:200px;
-    height:140px;
 }
 
 .tableau img{
