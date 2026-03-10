@@ -218,30 +218,19 @@ a:hover{
 #description-text {
     text-align: justify;
     border-radius: 8px;
-    background-color: antiquewhite;
-    height: 200px;
+    background-color: rgb(228, 223, 217);
+    height: 300px;
     width: 100%;
+    padding: 20px;
 }
 
 h4{
     font-style: italic;
-    font-size: 14;
-    color: rgb(95, 95, 95);
+    font-size: 9px;
+    color: rgb(160, 160, 160);
 }
 
 #Competences{
-    scroll-margin-top: 105px;
-    margin: auto;
-    text-align: justify;
-    padding: 20px;
-    background-color: rgb(255, 255, 255);
-    width: 56%;
-    font-size: 18px;
-    font-family: Helvetica;
-    line-height: 1.6;
-}
-
-#Contacte{
     scroll-margin-top: 105px;
     margin: auto;
     text-align: justify;
@@ -265,3 +254,6 @@ h4{
     width: 100%;
 }
 
+.menu a{
+    color: rgb(83, 196, 54);
+}
