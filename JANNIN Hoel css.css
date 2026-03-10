@@ -254,7 +254,7 @@ h4{
     left: 0;
     width: 100%;
     color: black;
-    margin-right: 60%;
+    margin-left: 400px;
 }
 
 h5{
@@ -283,4 +283,10 @@ h5{
     font-size: 18px;
     font-family: Helvetica;
     line-height: 1.6;
+}
+
+#image_paragraphe{
+    width: 70%;
+    height: auto;
+    align-items: center;
 }
