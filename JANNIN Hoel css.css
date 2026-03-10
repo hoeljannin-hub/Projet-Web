@@ -244,6 +244,7 @@ h4{
 
 #le_footer{
     align-items: center;
+    text-align: center;
     padding: 15px;
     background-color: rgb(118, 125, 145);
     font-family: Helvetica;
@@ -251,13 +252,14 @@ h4{
     top: 0;
     left: 0;
     width: 100%;
+    color: black;
 }
 
 h5{
     font-size: 21px;
 }
 
-.le_footer a{
+#le_footer a{
     color: rgb(228, 223, 217);
 }
 
