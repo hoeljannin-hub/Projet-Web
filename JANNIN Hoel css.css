@@ -272,3 +272,15 @@ h5{
     gap: 10px;
     margin-right: 10px;
 }
+
+#recap{
+    scroll-margin-top: 105px;
+    margin: auto;
+    text-align: justify;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    width: 56%;
+    font-size: 18px;
+    font-family: Helvetica;
+    line-height: 1.6;
+}
