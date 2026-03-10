@@ -289,3 +289,39 @@ h5{
     height: auto;
     align-items: center;
 }
+
+#projet_web{
+    scroll-margin-top: 105px;
+    margin: auto;
+    text-align: justify;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    width: 56%;
+    font-size: 18px;
+    font-family: Helvetica;
+    line-height: 1.6;
+}
+
+#robot{
+    scroll-margin-top: 105px;
+    margin: auto;
+    text-align: justify;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    width: 56%;
+    font-size: 18px;
+    font-family: Helvetica;
+    line-height: 1.6;
+}
+
+#sql{
+    scroll-margin-top: 105px;
+    margin: auto;
+    text-align: justify;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    width: 56%;
+    font-size: 18px;
+    font-family: Helvetica;
+    line-height: 1.6;
+}
