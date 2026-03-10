@@ -243,17 +243,16 @@ h4{
 }
 
 #le_footer{
-    display: flex;
     align-items: center;
     padding: 15px;
     background-color: rgb(118, 125, 145);
     font-family: Helvetica;
-    font-size: 25px;
+    font-size: 12px;
     top: 0;
     left: 0;
     width: 100%;
 }
 
-.menu a{
-    color: rgb(83, 196, 54);
+.le_footer a{
+    color: rgb(228, 223, 217);
 }
