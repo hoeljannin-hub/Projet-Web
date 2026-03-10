@@ -258,6 +258,7 @@ h4{
 
 h5{
     font-size: 21px;
+    color: rgb(228, 223, 217);
 }
 
 #le_footer a{
@@ -268,5 +269,5 @@ h5{
     display: flex;
     justify-content: flex-end;
     gap: 10px;
-    margin-top: 20px;
+    margin-right: 10px;
 }
