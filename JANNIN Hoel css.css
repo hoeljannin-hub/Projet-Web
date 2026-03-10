@@ -260,3 +260,10 @@ h5{
 .le_footer a{
     color: rgb(228, 223, 217);
 }
+
+.logos{
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 20px;
+}
